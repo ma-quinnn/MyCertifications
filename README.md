@@ -10,7 +10,7 @@ First Certificate I have! <3
 ✅ Uploaded on GitHub as part of my Cybersecurity Journey
 
 
-...
+```
 🎯 My Certification Roadmap
 
 
@@ -29,6 +29,7 @@ Right now, I'm actively exploring and learning through hands-on practice, platfo
 
 📌 Certifications will come — but only after the skills are earned and the direction is clear.
 This journey is about mastery, not rushing. 💪
+```
 
 
 
